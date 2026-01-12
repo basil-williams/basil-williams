@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello!
+- I am a PhD student at Tulane University in the department of Ecology and Evolutionary Biology
+- My research interest are fish, taxonomy, and natural history collections.
+- I have two cats named Cardamom and Peppercorn!
+  
+
 
 <!--
 **basil-williams/basil-williams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
